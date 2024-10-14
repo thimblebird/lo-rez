@@ -1,9 +1,10 @@
 {"name":"assets/minecraft/textures/block/bell_bottom.png","value":true}
 {"name":"assets/minecraft/textures/block/bell_top.png","value":true}
-{"name":"assets/minecraft/textures/block/frosted_ice_0.png","value":true}
-{"name":"assets/minecraft/textures/block/frosted_ice_1.png","value":true}
-{"name":"assets/minecraft/textures/block/frosted_ice_2.png","value":true}
-{"name":"assets/minecraft/textures/block/frosted_ice_3.png","value":true}
+{"name":"assets/minecraft/textures/block/chiseled_bookshelf_empty.png","value":true}
+{"name":"assets/minecraft/textures/block/chiseled_bookshelf_occupied.png","value":true}
+{"name":"assets/minecraft/textures/block/chiseled_bookshelf_side.png","value":true}
+{"name":"assets/minecraft/textures/block/chiseled_bookshelf_top.png","value":true}
+{"name":"assets/minecraft/textures/block/jigsaw_top.png","value":true}
 {"name":"assets/minecraft/textures/block/lava_flow.png","value":true}
 {"name":"assets/minecraft/textures/block/lava_still.png","value":true}
 {"name":"assets/minecraft/textures/block/light_gray_glazed_terracotta.png","value":true}
@@ -25,7 +26,4 @@
 {"name":"assets/minecraft/textures/block/yellow_glazed_terracotta.png","value":true}
 {"name":"assets/minecraft/textures/item/acacia_boat.png","value":true}
 {"name":"assets/minecraft/textures/item/axolotl_bucket.png","value":true}
-{"name":"assets/minecraft/textures/item/feather.png","value":true}
-{"name":"assets/minecraft/textures/item/pointed_dripstone.png","value":true}
-{"name":"assets/minecraft/textures/item/rabbit_foot.png","value":true}
-{"name":"assets/minecraft/textures/item/totem_of_undying.png","value":true}
+{"name":"assets/minecraft/textures/item/oak_boat.png","value":true}
